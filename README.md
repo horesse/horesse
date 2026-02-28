@@ -27,4 +27,4 @@
 
 ### Contacts
 
-[Telegram](https://t.me/hrsthw) · [Email](mailto:deeptheath322@gmail.com)
+[Email](mailto:deeptheath322@gmail.com)
