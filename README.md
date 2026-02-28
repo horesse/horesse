@@ -1,16 +1,30 @@
-## Hi there 👋
+# Valentin Polkhovsky
 
-<!--
-**horesse/horesse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**.NET & Fullstack Developer** — Information Computing Center, Ministry of Finance of Belarus
 
-Here are some ideas to get you started:
+3 years of experience building backend systems and web applications. Graduate of BSUIR.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Stack
+
+**Backend**
+`C#` `.NET 10` `ASP.NET Core` `Entity Framework Core` `gRPC`
+
+**Frontend**
+`Angular` `React` `TypeScript`
+
+**Architecture**
+`DDD` `Microservices` `Clean Architecture` `CQRS` `Event-Driven`
+
+**Data & Messaging**
+`PostgreSQL` `MSSQL` `Apache Kafka` `RabbitMQ`
+
+**Infrastructure**
+`Docker` `OpenTelemetry`
+
+---
+
+### Contacts
+
+[Telegram](https://t.me/hrsthw) · [Email](mailto:deeptheath322@gmail.com)
