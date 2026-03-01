@@ -1,4 +1,4 @@
-# Valentin Polkhovsky
+# Valiantsin Palkhouski 
 
 **.NET & Fullstack Developer** — Information Computing Center, Ministry of Finance of Belarus
 
