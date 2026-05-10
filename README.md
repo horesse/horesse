@@ -18,7 +18,7 @@
 `DDD` `Microservices` `Clean Architecture` `CQRS` `Event-Driven`
 
 **Data & Messaging**
-`PostgreSQL` `MSSQL` `Apache Kafka` `RabbitMQ`
+`PostgreSQL` `MSSQL` `Oracle` `MySQL` `Apache Kafka` `RabbitMQ`  `Redis`
 
 **Infrastructure**
 `Docker` `OpenTelemetry`
